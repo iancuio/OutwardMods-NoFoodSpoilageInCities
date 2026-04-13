@@ -45,3 +45,5 @@ Thumbs.db
 
 # Local developer paths
 Directory.Build.props
+
+/release/

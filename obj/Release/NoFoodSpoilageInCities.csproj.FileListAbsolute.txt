@@ -1,0 +1,13 @@
+E:\Games\Thunderstore\data_folder\OutwardDe\profiles\Default\BepInEx\plugins\NoFoodSpoilageInCities.dll
+E:\Games\Thunderstore\data_folder\OutwardDe\profiles\Default\BepInEx\plugins\NoFoodSpoilageInCities.pdb
+E:\Games\Thunderstore\data_folder\OutwardDe\profiles\Default\BepInEx\plugins\iancuio-NoFoodSpoilageInCities\NoFoodSpoilageInCities.dll
+E:\Games\Thunderstore\data_folder\OutwardDe\profiles\Default\BepInEx\plugins\iancuio-NoFoodSpoilageInCities\NoFoodSpoilageInCities.pdb
+E:\Games\Thunderstore\data_folder\OutwardDe\profiles\Default\BepInEx\plugins\iancula-NoFoodSpoilageInCities\NoFoodSpoilageInCities.dll
+E:\Games\Thunderstore\data_folder\OutwardDe\profiles\Default\BepInEx\plugins\iancula-NoFoodSpoilageInCities\NoFoodSpoilageInCities.pdb
+E:\Modding\Outward\NoFoodSpoilageInCities\obj\Release\NoFoodSpoilageInCities.csproj.AssemblyReference.cache
+E:\Modding\Outward\NoFoodSpoilageInCities\obj\Release\NoFoodSpoilageInCities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Modding\Outward\NoFoodSpoilageInCities\obj\Release\NoFoodSpoilageInCities.AssemblyInfoInputs.cache
+E:\Modding\Outward\NoFoodSpoilageInCities\obj\Release\NoFoodSpoilageInCities.AssemblyInfo.cs
+E:\Modding\Outward\NoFoodSpoilageInCities\obj\Release\NoFoodSpoilageInCities.csproj.CoreCompileInputs.cache
+E:\Modding\Outward\NoFoodSpoilageInCities\obj\Release\NoFoodSpoilageInCities.dll
+E:\Modding\Outward\NoFoodSpoilageInCities\obj\Release\NoFoodSpoilageInCities.pdb
