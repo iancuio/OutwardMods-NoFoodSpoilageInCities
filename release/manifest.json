@@ -1,9 +1,0 @@
-{
-    "name": "NoFoodSpoilageInCities",
-    "version_number": "1.0.2",
-    "website_url": "",
-    "description": "Prevents food spoilage while you are in a city.",
-    "dependencies": [
-        "BepInEx-BepInExPack_Outward-5.4.19"
-    ]
-}

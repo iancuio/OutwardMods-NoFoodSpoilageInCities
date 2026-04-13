@@ -1,8 +1,0 @@
-<Project>
-  <PropertyGroup>
-    <OutwardManagedPath>C:\Games\Steam\steamapps\common\Outward\Outward_Defed\Outward Definitive Edition_Data\Managed</OutwardManagedPath>
-    
-    <BepInExCorePath>E:\Games\Thunderstore\data_folder\OutwardDe\profiles\Default\BepInEx\core</BepInExCorePath>
-    <BepInExPluginPath>E:\Games\Thunderstore\data_folder\OutwardDe\profiles\Default\BepInEx\plugins</BepInExPluginPath>
-  </PropertyGroup>
-</Project>
